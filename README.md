@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on a simple application develop process
-- 📫 How to reach me m.rsb12@outlook.com
+- 📫 You Can reach me on m.rsb12@outlook.com
 
 <!---
 Bharadwaj-CSE/Bharadwaj-CSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
